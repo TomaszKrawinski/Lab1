@@ -1,0 +1,12 @@
+E:\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+E:\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+E:\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+E:\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+E:\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+E:\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+E:\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+E:\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+E:\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+E:\Tomasz Krawinski Lab1C#\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+E:\Tomasz Krawinski Lab1C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+E:\Tomasz Krawinski Lab1C#\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

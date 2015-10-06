@@ -1,0 +1,18 @@
+E:\MultiConverter\MultiConverter\bin\Debug\MultiConverter.exe.config
+E:\MultiConverter\MultiConverter\bin\Debug\MultiConverter.exe
+E:\MultiConverter\MultiConverter\bin\Debug\MultiConverter.pdb
+E:\MultiConverter\MultiConverter\obj\Debug\MultiConverter.csprojResolveAssemblyReference.cache
+E:\MultiConverter\MultiConverter\obj\Debug\MultiConverter.Form1.resources
+E:\MultiConverter\MultiConverter\obj\Debug\MultiConverter.Properties.Resources.resources
+E:\MultiConverter\MultiConverter\obj\Debug\MultiConverter.csproj.GenerateResource.Cache
+E:\MultiConverter\MultiConverter\obj\Debug\MultiConverter.exe
+E:\MultiConverter\MultiConverter\obj\Debug\MultiConverter.pdb
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\bin\Debug\MultiConverter.exe.config
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\obj\Debug\MultiConverter.exe
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\obj\Debug\MultiConverter.pdb
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\obj\Debug\MultiConverter.csprojResolveAssemblyReference.cache
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\obj\Debug\MultiConverter.Form1.resources
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\obj\Debug\MultiConverter.Properties.Resources.resources
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\obj\Debug\MultiConverter.csproj.GenerateResource.Cache
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\bin\Debug\MultiConverter.exe
+E:\Tomasz Krawinski Lab1C#\MultiConverter\MultiConverter\bin\Debug\MultiConverter.pdb
